@@ -1,0 +1,3 @@
+C:/Users/ioana/Desktop/andreiiep/build/CMakeFiles/Plane.dir
+C:/Users/ioana/Desktop/andreiiep/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ioana/Desktop/andreiiep/build/CMakeFiles/ZERO_CHECK.dir
